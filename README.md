@@ -1,2 +1,2 @@
 # new-website
-Just trying out a cool design
+Just trying out Tailwind CSS
